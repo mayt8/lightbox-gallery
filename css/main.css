@@ -1,5 +1,5 @@
 h1{
-
+color: #fff;
 }
 
 .lightbox-gallery a {
@@ -13,4 +13,12 @@ padding: 4px;
 
 .lightbox-gallery img:hover {
   box-shadow: 3px 3px 3px #888;
+}
+
+body {
+  background-color: #000;
+}
+
+footer {
+  color: #fff;
 }
